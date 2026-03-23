@@ -17,3 +17,5 @@
     Output: 3
     Explanation: Longest substrings without any repeating characters are "abc" & "cde".
  */
+
+const non_repeat_substring = () => {};
